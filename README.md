@@ -1,6 +1,6 @@
 # DS-Project-EC-
 CS303 (Fall23)- Extra Credit Project- 
-The idea of this project is for when two picky eaters want to cook something with the limited items of food they have. 
+The idea of this project is for when two picky eaters want to cook something with the limited items of food they have based on preference (priority). 
 
 When you run the code, you will be asked to input the amount of items for recipe 1 then what the items are (Ex. eggs, cheese, etc...) rate it from high (0), medium (1), and low (2) preference. Then do the same when asked for recipe 2. The program will loop twice. 
 
